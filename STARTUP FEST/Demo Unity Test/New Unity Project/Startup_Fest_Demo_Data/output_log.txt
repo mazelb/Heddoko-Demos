@@ -1,0 +1,135 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 965M      (ID=0x13d9)
+    Vendor:   NVIDIA
+    VRAM:     3948 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\OpenCvSharp.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\OpenCvSharp.dll into Unity Child Domain
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+desktop: 1920x1080 60Hz; virtual: 3000x1920 at -1080,-369
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\HEDDOKO\QSYNC\Qsync\Mazen Elbawab\02_SOFTWARE\EVENT DEMOS\Demos\STARTUP FEST\Demo Unity Test\New Unity Project\Startup_Fest_Demo_Data\Managed\System.dll (this message is harmless)
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/.\Kinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/.\Kinect10
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/libKinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/.\libKinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/libKinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/.\Kinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/.\Kinect10
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/Kinect10
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/libKinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/.\libKinect10.dll
+Fallback handler could not load library E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Startup_Fest_Demo_Data/Mono/libKinect10.dll
+K2-sensor opened, available: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Interface used: Kinect2Interface
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Shader level: 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Waiting for users.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+(1.4, 0.3, 0.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.444344 ms
+K2-sensor opened, available: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Interface used: Kinect2Interface
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Shader level: 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Waiting for users.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1429.
+Total: 0.521652 ms (FindLiveObjects: 0.061325 ms CreateObjectMapping: 0.022580 ms MarkObjects: 0.418245 ms  DeleteObjects: 0.010007 ms)
+
+(1.4, 0.3, 0.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.534738 ms
+K2-sensor opened, available: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Interface used: Kinect2Interface
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Shader level: 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Waiting for users.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1442.
+Total: 0.373342 ms (FindLiveObjects: 0.034896 ms CreateObjectMapping: 0.015652 ms MarkObjects: 0.315608 ms  DeleteObjects: 0.006927 ms)
+
+(1.4, 0.3, 0.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+K2-sensor closed, available: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+K2-sensor closed, available: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+K2-sensor closed, available: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

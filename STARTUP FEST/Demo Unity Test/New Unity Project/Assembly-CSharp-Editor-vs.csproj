@@ -158,7 +158,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/STARTUP FEST/Demo Unity Test/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -176,10 +176,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="OpenCvSharp">
- <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/OpenCV/OpenCvSharp.dll</HintPath>
+ <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/OpenCV/OpenCvSharp.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.SharpZipLib">
- <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll</HintPath>
+ <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

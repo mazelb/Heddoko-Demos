@@ -379,10 +379,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="OpenCvSharp">
- <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/OpenCV/OpenCvSharp.dll</HintPath>
+ <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/OpenCV/OpenCvSharp.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.SharpZipLib">
- <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll</HintPath>
+ <HintPath>E:/HEDDOKO/QSYNC/Qsync/Mazen Elbawab/02_SOFTWARE/EVENT DEMOS/Demos/STARTUP FEST/Demo Unity Test/New Unity Project/Assets/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
